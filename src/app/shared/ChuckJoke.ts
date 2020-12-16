@@ -1,4 +1,4 @@
 export interface IChuckJoke {
-  id: string;
+  id: number;
   joke: string;
 }
